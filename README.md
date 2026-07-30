@@ -1,1 +1,19 @@
 # GOLD
+A 3D INTERACTIVE WEBSITE ABOUT GOLD BUILT USING THREE.JS AND VITE
+
+## LANGUAGES AND TOOLS USED:
+HTML
+CSS
+JAVASCRIPT
+THREE.JS
+VITE
+
+## VISIT
+https://goldabout-two.vercel.app/
+
+## INSTALLATION
+'''bash
+npm install
+npm run dev'''
+
+## MADE BY SHIV
